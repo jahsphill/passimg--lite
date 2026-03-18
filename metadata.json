@@ -1,0 +1,5 @@
+{
+  "name": "PassIMG Lite",
+  "description": "A trust layer for images. Verify authenticity and integrity using cryptographic fingerprints and timestamps.",
+  "requestFramePermissions": []
+}
