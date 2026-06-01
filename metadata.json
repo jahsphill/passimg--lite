@@ -1,0 +1,6 @@
+{
+  "name": "PassIMG Lite",
+  "description": "A lightweight image authentication, verification, and monetization platform designed for creators, photographers, and digital asset owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
